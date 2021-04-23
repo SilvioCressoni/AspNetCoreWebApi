@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9EA1FD30-63CB-498E-8A15-8E3B8B1D62A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.SmartSchool.API PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartSchool.API/Controllers/AlunoController.cs">
+    <Files>
+      <File FileName="SmartSchool.API/Startup.cs" Line="34" Column="39" />
+      <File FileName="SmartSchool.API/Controllers/AlunoController.cs" Line="81" Column="13" />
+      <File FileName="SmartSchool.API/Data/SmartContext.cs" Line="32" Column="1" />
+      <File FileName="SmartSchool.API/appsettings.Development.json" Line="1" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmartSchool" expanded="True">
+            <Node name="SmartSchool.API" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="AlunoController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
